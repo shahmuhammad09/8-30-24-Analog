@@ -1,0 +1,48 @@
+body{
+    border: 3px solid grey;
+    border: 3px solid grey;
+    padding-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    h1,p{
+        margin: 0;
+    }
+    h1{
+        font-size: 50px;
+    }
+    p{
+        font-size: 20px;
+    }
+    pre{
+        font-size: 15px;
+    }
+    li{
+        font-size: 20px;
+    }
+    .Analog-specialist{
+        text-transform: uppercase;
+    }
+    .navbar{
+        display: inline-block;
+        padding: 10px 30px;
+    }
+    ul{
+        border-top: 3px solid;
+        border-bottom: solid;
+        width: 63%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-right: 7px;
+        padding-left: 7px;
+        text-transform: uppercase;
+    }
+    #Home{
+        color: red;
+    }
+    .Para{
+        text-align: justify;
+        text-align: center;
+    }
+    .link{
+        color: black;
+    }
